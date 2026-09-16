@@ -578,6 +578,6 @@ The next lesson explores the different roles played by connected systems when co
 
 ## Related Video
 
-**Web Development Fundamentals — Video 02: How the Internet Works**
+**Web Development Fundamentals — [Video 02: How the Internet Works](https://youtu.be/KcBZBpzkRMQ)**
 
-Add your YouTube video link here.
+
